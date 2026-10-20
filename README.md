@@ -129,7 +129,15 @@ python3 combine_ds_skills.py --region UK --reed-dir output_uk \
     --ats-dir output_ats_uk --out output_combined_uk
 ```
 
-Re-runs are cheap. Reed descriptions are cached in `output*/cache/`, and board lookups are cached in `boards.json`. The raw company-board dump (`all_jobs_raw.json`, about 36 MB) is not tracked in Git, so run `ats_ds_skills.py` before `combine_ds_skills.py` on a fresh clone.
+**Raw job-ad text is not in this repository.** Under Reed's API terms, the raw Reed responses are not redistributed: that means `output*/search_results.json` and the full descriptions cached in `output*/cache/`. The company-board dump (`all_jobs_raw.json`, about 36 MB) is left out too. The repository keeps only derived results: ad metadata, skill flags, frequencies and charts.
+
+To reproduce the combined results from a fresh clone:
+
+1. Set `REED_API_KEY`, then run `reed_ds_skills.py`. This recreates `search_results.json` and the description cache.
+2. Run `ats_ds_skills.py`.
+3. Run `combine_ds_skills.py`.
+
+Re-runs after that are cheap, because descriptions and board lookups are cached locally. Because job ads expire, a re-run will collect the ads that are live at that time, not the October 2026 snapshot.
 
 Each output folder contains `skills_frequency.csv`/`.png`, `jobs.csv` (one row per ad), `job_skill_matrix.csv` (one-hot matrix of ads by skills) and `run_summary.txt` (how many ads each filter removed).
 
