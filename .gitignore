@@ -5,3 +5,6 @@ __pycache__/
 .DS_Store
 # Raw company-board dumps are ~36 MB each; regenerate with ats_ds_skills.py
 all_jobs_raw.json
+# Raw Reed API responses (full ad text) are not redistributed
+search_results.json
+cache/
