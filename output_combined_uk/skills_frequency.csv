@@ -1,0 +1,56 @@
+skill,category,n_jobs,pct_jobs
+Python,Language,35,94.6
+Machine learning,Method,29,78.4
+SQL,Language,29,78.4
+Stakeholder management,Professional,27,73.0
+Collaboration / teamwork,Professional,25,67.6
+Communication,Professional,25,67.6
+Statistics,Method,21,56.8
+Time series / forecasting,Method,15,40.5
+Predictive modelling,Method,13,35.1
+A/B testing & experimentation,Method,10,27.0
+Model deployment / production,MLOps,10,27.0
+Quantitative degree (STEM),Education,10,27.0
+Problem solving,Professional,9,24.3
+AWS,Cloud,8,21.6
+Azure,Cloud,8,21.6
+Optimisation,Method,8,21.6
+Dashboards,Viz/BI,7,18.9
+Databricks,Data eng,7,18.9
+ETL / data pipelines,Data eng,7,18.9
+R,Language,6,16.2
+APIs,MLOps,5,13.5
+GCP,Cloud,5,13.5
+Recommender systems,Method,5,13.5
+Docker,MLOps,4,10.8
+Git,MLOps,4,10.8
+Snowflake,Data eng,4,10.8
+Spark,Data eng,4,10.8
+scikit-learn,Library,4,10.8
+Feature engineering,Method,3,8.1
+Generative AI,GenAI,3,8.1
+LLMs,GenAI,3,8.1
+NLP,Method,3,8.1
+Power BI,Viz/BI,3,8.1
+PyTorch,Library,3,8.1
+XGBoost / LightGBM,Library,3,8.1
+dbt,Data eng,3,8.1
+Agile,Professional,2,5.4
+Airflow,Data eng,2,5.4
+CI/CD,MLOps,2,5.4
+Computer vision,Method,2,5.4
+Data visualisation,Viz/BI,2,5.4
+Looker,Viz/BI,2,5.4
+NumPy,Library,2,5.4
+RAG,GenAI,2,5.4
+SciPy / statsmodels,Library,2,5.4
+Storytelling,Professional,2,5.4
+pandas,Library,2,5.4
+BigQuery,Data eng,1,2.7
+Causal inference,Method,1,2.7
+Deep learning,Method,1,2.7
+Keras,Library,1,2.7
+Linux,MLOps,1,2.7
+Master's degree,Education,1,2.7
+Tableau,Viz/BI,1,2.7
+TensorFlow,Library,1,2.7

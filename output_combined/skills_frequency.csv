@@ -1,0 +1,44 @@
+skill,category,n_jobs,pct_jobs
+Python,Language,19,95.0
+Machine learning,Method,15,75.0
+Collaboration / teamwork,Professional,14,70.0
+SQL,Language,14,70.0
+Communication,Professional,13,65.0
+Stakeholder management,Professional,13,65.0
+Statistics,Method,10,50.0
+A/B testing & experimentation,Method,6,30.0
+Databricks,Data eng,6,30.0
+Optimisation,Method,6,30.0
+Quantitative degree (STEM),Education,6,30.0
+AWS,Cloud,5,25.0
+Predictive modelling,Method,5,25.0
+Time series / forecasting,Method,5,25.0
+ETL / data pipelines,Data eng,4,20.0
+Recommender systems,Method,4,20.0
+APIs,MLOps,3,15.0
+Model deployment / production,MLOps,3,15.0
+Problem solving,Professional,3,15.0
+Dashboards,Viz/BI,2,10.0
+Feature engineering,Method,2,10.0
+SciPy / statsmodels,Library,2,10.0
+Snowflake,Data eng,2,10.0
+Spark,Data eng,2,10.0
+XGBoost / LightGBM,Library,2,10.0
+scikit-learn,Library,2,10.0
+Agile,Professional,1,5.0
+Airflow,Data eng,1,5.0
+Azure,Cloud,1,5.0
+CI/CD,MLOps,1,5.0
+Data visualisation,Viz/BI,1,5.0
+Deep learning,Method,1,5.0
+Docker,MLOps,1,5.0
+Generative AI,GenAI,1,5.0
+Git,MLOps,1,5.0
+Keras,Library,1,5.0
+LLMs,GenAI,1,5.0
+Looker,Viz/BI,1,5.0
+Master's degree,Education,1,5.0
+NLP,Method,1,5.0
+NumPy,Library,1,5.0
+PyTorch,Library,1,5.0
+dbt,Data eng,1,5.0

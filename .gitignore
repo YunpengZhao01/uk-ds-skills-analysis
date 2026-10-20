@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# Raw company-board dumps are ~36 MB each; regenerate with ats_ds_skills.py
+all_jobs_raw.json

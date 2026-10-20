@@ -1,0 +1,28 @@
+skill,category,n_jobs,pct_jobs
+Python,Language,6,100.0
+SQL,Language,5,83.3
+Machine learning,Method,4,66.7
+Collaboration / teamwork,Professional,3,50.0
+Communication,Professional,3,50.0
+Quantitative degree (STEM),Education,3,50.0
+Stakeholder management,Professional,3,50.0
+A/B testing & experimentation,Method,2,33.3
+Model deployment / production,MLOps,2,33.3
+Statistics,Method,2,33.3
+Time series / forecasting,Method,2,33.3
+APIs,MLOps,1,16.7
+AWS,Cloud,1,16.7
+BigQuery,Data eng,1,16.7
+Data visualisation,Viz/BI,1,16.7
+Deep learning,Method,1,16.7
+Docker,MLOps,1,16.7
+ETL / data pipelines,Data eng,1,16.7
+LLMs,GenAI,1,16.7
+Looker,Viz/BI,1,16.7
+Master's degree,Education,1,16.7
+NumPy,Library,1,16.7
+Optimisation,Method,1,16.7
+Problem solving,Professional,1,16.7
+SciPy / statsmodels,Library,1,16.7
+dbt,Data eng,1,16.7
+scikit-learn,Library,1,16.7

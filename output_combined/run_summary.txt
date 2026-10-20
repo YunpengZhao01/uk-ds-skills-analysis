@@ -1,0 +1,24 @@
+  company: London 'Data Scientist' titles              31
+  company: kept                                        6
+  company: dropped senior                              23
+  company: dropped older than 30 days                  2
+  reed: London 'Data Scientist' titles                 33
+  reed: dropped older than 30 days                     5
+  reed: kept                                           15
+  reed: dropped senior                                 13
+  unique_jobs                                          20
+  duplicates_removed                                   1
+  jobs_with_5plus_years                                3
+
+Jobs kept per employer:
+   10  Harnham - Data & Analytics Recruitment
+    2  Marshmallow
+    1  Monzo
+    1  Lendable
+    1  Teya
+    1  Zego
+    1  Adecco 
+    1  Hays Specialist Recruitment Limited
+    1  Impellam
+    1  Vbeyond
+    1  Lorien

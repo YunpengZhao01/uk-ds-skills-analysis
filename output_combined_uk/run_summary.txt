@@ -1,0 +1,35 @@
+  company: UK 'Data Scientist' titles                  33
+  company: kept                                        8
+  company: dropped senior                              23
+  company: dropped older than 30 days                  2
+  reed: UK 'Data Scientist' titles                     62
+  reed: kept                                           32
+  reed: dropped older than 30 days                     9
+  reed: dropped senior                                 21
+  unique_jobs                                          37
+  duplicates_removed                                   3
+  jobs_with_5plus_years                                4
+
+Jobs kept per employer:
+   17  Harnham - Data & Analytics Recruitment
+    2  Marshmallow
+    2  ElevenLabs
+    1  Monzo
+    1  Lendable
+    1  Teya
+    1  Zego
+    1  Sirius Analysis
+    1  Sopra Steria
+    1  Oliver James 
+    1  Adecco 
+    1  Michael Page Business Support
+    1  Hays Specialist Recruitment Limited
+    1  Sanderson 
+    1  Impellam
+    1  VIA MATCH LIMITED
+    1  Forward Role
+    1  MRJ Recruitment
+    1  Vbeyond
+    1  Sellick Partnership
+    1  Lorien
+    1  The National Farmers Union Mutual Insurance Society Limited

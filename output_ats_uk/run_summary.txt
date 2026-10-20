@@ -1,0 +1,25 @@
+  boards_found                       86
+  boards_not_found                   69
+  jobs_downloaded                    5066
+  dropped_not_data_scientist_title   1630
+  dropped_not_uk                     3403
+  dropped_senior_title               23
+  dropped_older_than_window          2
+  unique_jobs                        6
+  duplicates_removed                 2
+  jobs_with_5plus_years              2
+  would_pass_with_30_days            8
+  would_pass_with_60_days            8
+  would_pass_with_90_days            10
+  would_pass_with_180_days           10
+
+Jobs kept per company:
+    2  Marshmallow
+    2  ElevenLabs
+    1  Monzo
+    1  Lendable
+    1  Teya
+    1  Zego
+
+Companies whose board was not found (add by hand with --add):
+  Revolut, Starling Bank, Checkout.com, Curve, Plum, Chip, Yapily, ClearScore, Bud, Thought Machine, 10x Banking, Kroo, Allica Bank, iwoca, Yonder, Chainalysis, Copper, Ravelin, Onfido, Nutmeg, Monese, Uncapped, Pockit, Paysend, ManyPets, Cuvva, Ki Insurance, Cytora, Gousto, Depop, Lyst, Skyscanner, Zoopla, Bloom & Wild, Huel, Papier, Citymapper, DAZN, Busuu, Memrise, Zapp, Hinge, Vinted, Octopus Energy, Ometria, Cazoo, Hopin, Cera, BenevolentAI, Thriva, Huma, Kheiron Medical, Elvie, LabGenius, Relation Therapeutics, Basecamp Research, Peppy, Google DeepMind, Signal AI, causaLens, V7, Robin AI, Luminance, Vortexa, Climate X, Conjecture, Mesh-AI, G-Research, XTX Markets

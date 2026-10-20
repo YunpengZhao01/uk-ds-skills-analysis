@@ -1,0 +1,7 @@
+  search_hits                        3152
+  dropped_too_old_or_undated         749
+  dropped_not_data_scientist_title   2353
+  dropped_senior_title               18
+  unique_jobs                        31
+  duplicates_removed                 1
+  jobs_with_5plus_years              2

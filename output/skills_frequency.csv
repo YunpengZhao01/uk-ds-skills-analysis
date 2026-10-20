@@ -1,0 +1,45 @@
+skill,category,n_jobs,pct_jobs
+Python,Language,18,94.7
+Collaboration / teamwork,Professional,14,73.7
+Communication,Professional,14,73.7
+Machine learning,Method,14,73.7
+SQL,Language,14,73.7
+Stakeholder management,Professional,14,73.7
+Statistics,Method,9,47.4
+Databricks,Data eng,8,42.1
+Predictive modelling,Method,6,31.6
+A/B testing & experimentation,Method,5,26.3
+Optimisation,Method,5,26.3
+AWS,Cloud,4,21.1
+Dashboards,Viz/BI,4,21.1
+ETL / data pipelines,Data eng,4,21.1
+Quantitative degree (STEM),Education,4,21.1
+Recommender systems,Method,4,21.1
+Time series / forecasting,Method,4,21.1
+APIs,MLOps,3,15.8
+Feature engineering,Method,3,15.8
+Spark,Data eng,3,15.8
+Azure,Cloud,2,10.5
+CI/CD,MLOps,2,10.5
+Data visualisation,Viz/BI,2,10.5
+Excel,Viz/BI,2,10.5
+Generative AI,GenAI,2,10.5
+Git,MLOps,2,10.5
+NLP,Method,2,10.5
+Problem solving,Professional,2,10.5
+Snowflake,Data eng,2,10.5
+Tableau,Viz/BI,2,10.5
+XGBoost / LightGBM,Library,2,10.5
+Agile,Professional,1,5.3
+Airflow,Data eng,1,5.3
+Keras,Library,1,5.3
+LLMs,GenAI,1,5.3
+MLOps,MLOps,1,5.3
+Model deployment / production,MLOps,1,5.3
+Power BI,Viz/BI,1,5.3
+PyTorch,Library,1,5.3
+RAG,GenAI,1,5.3
+SciPy / statsmodels,Library,1,5.3
+Storytelling,Professional,1,5.3
+dbt,Data eng,1,5.3
+scikit-learn,Library,1,5.3

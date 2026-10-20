@@ -1,0 +1,53 @@
+skill,category,n_jobs,pct_jobs
+Python,Language,29,93.5
+Machine learning,Method,25,80.6
+SQL,Language,24,77.4
+Stakeholder management,Professional,24,77.4
+Collaboration / teamwork,Professional,22,71.0
+Communication,Professional,22,71.0
+Statistics,Method,19,61.3
+Predictive modelling,Method,13,41.9
+Time series / forecasting,Method,13,41.9
+A/B testing & experimentation,Method,8,25.8
+Azure,Cloud,8,25.8
+Model deployment / production,MLOps,8,25.8
+Problem solving,Professional,8,25.8
+AWS,Cloud,7,22.6
+Dashboards,Viz/BI,7,22.6
+Databricks,Data eng,7,22.6
+Optimisation,Method,7,22.6
+Quantitative degree (STEM),Education,7,22.6
+ETL / data pipelines,Data eng,6,19.4
+R,Language,6,19.4
+GCP,Cloud,5,16.1
+Recommender systems,Method,5,16.1
+APIs,MLOps,4,12.9
+Git,MLOps,4,12.9
+Snowflake,Data eng,4,12.9
+Spark,Data eng,4,12.9
+Docker,MLOps,3,9.7
+Feature engineering,Method,3,9.7
+Generative AI,GenAI,3,9.7
+NLP,Method,3,9.7
+Power BI,Viz/BI,3,9.7
+PyTorch,Library,3,9.7
+XGBoost / LightGBM,Library,3,9.7
+scikit-learn,Library,3,9.7
+Agile,Professional,2,6.5
+Airflow,Data eng,2,6.5
+CI/CD,MLOps,2,6.5
+Computer vision,Method,2,6.5
+LLMs,GenAI,2,6.5
+RAG,GenAI,2,6.5
+Storytelling,Professional,2,6.5
+dbt,Data eng,2,6.5
+pandas,Library,2,6.5
+Causal inference,Method,1,3.2
+Data visualisation,Viz/BI,1,3.2
+Keras,Library,1,3.2
+Linux,MLOps,1,3.2
+Looker,Viz/BI,1,3.2
+NumPy,Library,1,3.2
+SciPy / statsmodels,Library,1,3.2
+Tableau,Viz/BI,1,3.2
+TensorFlow,Library,1,3.2

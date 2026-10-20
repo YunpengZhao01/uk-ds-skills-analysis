@@ -1,0 +1,415 @@
+{
+ "Monzo": {
+  "platform": "greenhouse",
+  "name": "monzo"
+ },
+ "Wise": {
+  "platform": "greenhouse",
+  "name": "wise"
+ },
+ "Revolut": null,
+ "Starling Bank": null,
+ "OakNorth": {
+  "platform": "ashby",
+  "name": "oaknorth"
+ },
+ "GoCardless": {
+  "platform": "greenhouse",
+  "name": "gocardless"
+ },
+ "Checkout.com": null,
+ "Zopa": {
+  "platform": "lever",
+  "name": "zopa"
+ },
+ "Cleo": {
+  "platform": "greenhouse",
+  "name": "cleo"
+ },
+ "Marshmallow": {
+  "platform": "ashby",
+  "name": "marshmallow"
+ },
+ "Lendable": {
+  "platform": "ashby",
+  "name": "lendable"
+ },
+ "Tide": {
+  "platform": "greenhouse",
+  "name": "tide"
+ },
+ "Curve": null,
+ "Moneybox": {
+  "platform": "ashby",
+  "name": "moneybox"
+ },
+ "Freetrade": {
+  "platform": "ashby",
+  "name": "freetrade"
+ },
+ "Plum": null,
+ "Chip": null,
+ "Yapily": null,
+ "TrueLayer": {
+  "platform": "greenhouse",
+  "name": "truelayer"
+ },
+ "Primer": {
+  "platform": "ashby",
+  "name": "primer"
+ },
+ "Paddle": {
+  "platform": "ashby",
+  "name": "paddle"
+ },
+ "Pleo": {
+  "platform": "ashby",
+  "name": "pleo"
+ },
+ "Funding Circle": {
+  "platform": "ashby",
+  "name": "fundingcircle"
+ },
+ "ClearScore": null,
+ "Zilch": {
+  "platform": "ashby",
+  "name": "zilch"
+ },
+ "Bud": null,
+ "Thought Machine": null,
+ "10x Banking": null,
+ "Kroo": null,
+ "Allica Bank": null,
+ "iwoca": null,
+ "Capital on Tap": {
+  "platform": "greenhouse",
+  "name": "capitalontap"
+ },
+ "Ebury": {
+  "platform": "greenhouse",
+  "name": "ebury"
+ },
+ "Dojo": {
+  "platform": "greenhouse",
+  "name": "dojo"
+ },
+ "Teya": {
+  "platform": "ashby",
+  "name": "teya"
+ },
+ "SumUp": {
+  "platform": "greenhouse",
+  "name": "sumup"
+ },
+ "Wagestream": {
+  "platform": "ashby",
+  "name": "stream"
+ },
+ "Ophelos": {
+  "platform": "greenhouse",
+  "name": "ophelos"
+ },
+ "Yonder": null,
+ "ComplyAdvantage": {
+  "platform": "greenhouse",
+  "name": "complyadvantage"
+ },
+ "Elliptic": {
+  "platform": "ashby",
+  "name": "elliptic"
+ },
+ "Chainalysis": null,
+ "Blockchain.com": {
+  "platform": "greenhouse",
+  "name": "blockchain"
+ },
+ "Copper": null,
+ "Ravelin": null,
+ "Onfido": null,
+ "Nutmeg": null,
+ "Monese": null,
+ "Uncapped": null,
+ "Pockit": null,
+ "Paysend": null,
+ "Zego": {
+  "platform": "ashby",
+  "name": "zego"
+ },
+ "ManyPets": null,
+ "Cuvva": null,
+ "Hyperexponential": {
+  "platform": "ashby",
+  "name": "hyperexponential"
+ },
+ "Artificial Labs": {
+  "platform": "ashby",
+  "name": "artificial"
+ },
+ "Ki Insurance": null,
+ "Cytora": null,
+ "Flock": {
+  "platform": "ashby",
+  "name": "flock"
+ },
+ "Deliveroo": {
+  "platform": "greenhouse",
+  "name": "deliveroo"
+ },
+ "Gousto": null,
+ "Depop": null,
+ "Lyst": null,
+ "Trainline": {
+  "platform": "ashby",
+  "name": "trainline"
+ },
+ "Skyscanner": null,
+ "Bumble": {
+  "platform": "ashby",
+  "name": "bumble"
+ },
+ "Zoopla": null,
+ "Moonpig": {
+  "platform": "lever",
+  "name": "moonpig"
+ },
+ "Motorway": {
+  "platform": "ashby",
+  "name": "motorway"
+ },
+ "Bloom & Wild": null,
+ "Huel": null,
+ "Butternut Box": {
+  "platform": "greenhouse",
+  "name": "butternutbox"
+ },
+ "Papier": null,
+ "Citymapper": null,
+ "FREENOW": {
+  "platform": "greenhouse",
+  "name": "freenow"
+ },
+ "Duffel": {
+  "platform": "lever",
+  "name": "duffel"
+ },
+ "Mubi": {
+  "platform": "ashby",
+  "name": "mubi"
+ },
+ "DAZN": null,
+ "Busuu": null,
+ "Memrise": null,
+ "Goodlord": {
+  "platform": "ashby",
+  "name": "goodlord"
+ },
+ "Zapp": null,
+ "Hinge": null,
+ "Spotify": {
+  "platform": "lever",
+  "name": "spotify"
+ },
+ "Farfetch": {
+  "platform": "lever",
+  "name": "farfetch"
+ },
+ "Vinted": null,
+ "Sorare": {
+  "platform": "ashby",
+  "name": "sorare"
+ },
+ "OVO": {
+  "platform": "greenhouse",
+  "name": "ovoenergy"
+ },
+ "Octopus Energy": null,
+ "Kraken Tech": {
+  "platform": "lever",
+  "name": "kraken"
+ },
+ "Fuse Energy": {
+  "platform": "ashby",
+  "name": "fuse"
+ },
+ "Permutive": {
+  "platform": "ashby",
+  "name": "permutive"
+ },
+ "Ometria": null,
+ "Multiverse": {
+  "platform": "ashby",
+  "name": "multiverse"
+ },
+ "Beamery": {
+  "platform": "ashby",
+  "name": "beamery"
+ },
+ "Unmind": {
+  "platform": "ashby",
+  "name": "unmind"
+ },
+ "Snyk": {
+  "platform": "ashby",
+  "name": "snyk"
+ },
+ "Improbable": {
+  "platform": "ashby",
+  "name": "improbable"
+ },
+ "Bolt": {
+  "platform": "ashby",
+  "name": "bolt"
+ },
+ "Cazoo": null,
+ "Juro": {
+  "platform": "ashby",
+  "name": "juro"
+ },
+ "Hopin": null,
+ "Cera": null,
+ "Healx": {
+  "platform": "lever",
+  "name": "healx"
+ },
+ "BenevolentAI": null,
+ "Flo Health": {
+  "platform": "greenhouse",
+  "name": "flohealth"
+ },
+ "Thriva": null,
+ "Accurx": {
+  "platform": "ashby",
+  "name": "accurx"
+ },
+ "Huma": null,
+ "Kheiron Medical": null,
+ "Elvie": null,
+ "Lindus Health": {
+  "platform": "ashby",
+  "name": "lindus"
+ },
+ "LabGenius": null,
+ "Relation Therapeutics": null,
+ "Isomorphic Labs": {
+  "platform": "greenhouse",
+  "name": "isomorphiclabs"
+ },
+ "Basecamp Research": null,
+ "Latent Labs": {
+  "platform": "ashby",
+  "name": "latentlabs"
+ },
+ "Peppy": null,
+ "Google DeepMind": null,
+ "Anthropic": {
+  "platform": "greenhouse",
+  "name": "anthropic"
+ },
+ "OpenAI": {
+  "platform": "ashby",
+  "name": "openai"
+ },
+ "Cohere": {
+  "platform": "ashby",
+  "name": "cohere"
+ },
+ "Synthesia": {
+  "platform": "ashby",
+  "name": "synthesia"
+ },
+ "ElevenLabs": {
+  "platform": "ashby",
+  "name": "elevenlabs"
+ },
+ "Stability AI": {
+  "platform": "greenhouse",
+  "name": "stabilityai"
+ },
+ "PolyAI": {
+  "platform": "greenhouse",
+  "name": "polyai"
+ },
+ "Wayve": {
+  "platform": "ashby",
+  "name": "wayve"
+ },
+ "Faculty": {
+  "platform": "ashby",
+  "name": "faculty"
+ },
+ "Tractable": {
+  "platform": "ashby",
+  "name": "tractable"
+ },
+ "Quantexa": {
+  "platform": "ashby",
+  "name": "quantexa"
+ },
+ "Signal AI": null,
+ "causaLens": null,
+ "Prolific": {
+  "platform": "greenhouse",
+  "name": "prolific"
+ },
+ "PhysicsX": {
+  "platform": "greenhouse",
+  "name": "physicsx"
+ },
+ "Helsing": {
+  "platform": "greenhouse",
+  "name": "helsing"
+ },
+ "V7": null,
+ "Robin AI": null,
+ "Luminance": null,
+ "Vortexa": null,
+ "Kpler": {
+  "platform": "lever",
+  "name": "kpler"
+ },
+ "Climate X": null,
+ "CuspAI": {
+  "platform": "ashby",
+  "name": "cuspai"
+ },
+ "Granola": {
+  "platform": "ashby",
+  "name": "granola"
+ },
+ "Palantir": {
+  "platform": "lever",
+  "name": "palantir"
+ },
+ "Conjecture": null,
+ "Speechmatics": {
+  "platform": "greenhouse",
+  "name": "speechmatics"
+ },
+ "Peak": {
+  "platform": "greenhouse",
+  "name": "peak"
+ },
+ "Mesh-AI": null,
+ "Datatonic": {
+  "platform": "ashby",
+  "name": "datatonic"
+ },
+ "Dunnhumby": {
+  "platform": "greenhouse",
+  "name": "dunnhumby"
+ },
+ "Hex": {
+  "platform": "ashby",
+  "name": "hex"
+ },
+ "G-Research": null,
+ "XTX Markets": null,
+ "Marshall Wace": {
+  "platform": "greenhouse",
+  "name": "marshallwace"
+ },
+ "Squarepoint": {
+  "platform": "greenhouse",
+  "name": "squarepointcapital"
+ }
+}
